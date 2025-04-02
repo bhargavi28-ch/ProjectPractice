@@ -1,0 +1,113 @@
+2025-01-23 19:59:38,460 : INFO : tests.test_logging : Information statement
+2025-01-23 19:59:38,461 : WARNING : tests.test_logging : Something is in warning
+2025-01-23 19:59:38,461 : ERROR : tests.test_logging : Major error has happened
+2025-01-23 19:59:38,461 : CRITICAL : tests.test_logging : Critical issue
+2025-01-23 21:24:43,058 : INFO : test_PMS : Searching for employee ID: PCS135
+2025-01-24 10:35:15,788 : INFO : test_PMS : Searching for employee ID: PCS135
+2025-01-24 14:49:56,083 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 14:54:14,040 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 14:55:45,313 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 14:55:55,426 : INFO : test_timesheet : Searched for project: Lafamilia
+2025-01-24 14:59:07,787 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 14:59:17,583 : INFO : test_timesheet : Searched for project: Lafamilia
+2025-01-24 14:59:18,121 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 14:59:18,335 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 16:49:20,355 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 16:49:28,262 : INFO : test_timesheet : Searched for project: Lafamilia
+2025-01-24 16:52:55,457 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 16:53:04,419 : INFO : test_timesheet : Searched for project: Lafamilia
+2025-01-24 16:55:19,986 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 16:55:28,282 : INFO : test_timesheet : Searched for project: Lafamilia
+2025-01-24 17:00:57,793 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 17:01:05,731 : INFO : test_timesheet : Searched for project: Lafamilia
+2025-01-24 17:02:57,329 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 17:03:05,492 : INFO : test_timesheet : Searched for project: Lafamilia
+2025-01-24 17:06:02,799 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 17:06:06,903 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 17:06:07,029 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 17:09:06,839 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 17:09:13,488 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 17:09:13,614 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 17:12:55,954 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 17:13:00,800 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 17:13:00,968 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 17:15:06,088 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 17:15:10,957 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 17:15:11,123 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 17:17:51,270 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 17:18:01,751 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 17:18:01,917 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 17:27:36,411 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 17:27:40,800 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 17:27:40,960 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 19:39:32,395 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 19:39:36,703 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 19:39:36,866 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 19:42:24,686 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 19:42:30,875 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 19:42:31,027 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 19:45:43,633 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 19:45:48,266 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 19:45:48,444 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 20:03:48,449 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 20:03:53,923 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 20:03:54,089 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 20:06:37,824 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 20:06:43,118 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 20:06:43,302 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 20:13:29,620 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 20:13:33,811 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 20:13:33,998 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 21:06:38,318 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 21:06:43,675 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 21:06:43,832 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-24 21:10:52,633 : INFO : test_timesheet : Clicked on the timesheet button
+2025-01-24 21:10:57,392 : INFO : test_timesheet : Entered task name: Loginpage
+2025-01-24 21:10:57,551 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-01-25 21:28:53,347 : INFO : test_accountsaddpayregister : Selecting month and year: Jan
+2025-01-25 21:28:53,628 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-26 10:06:29,606 : INFO : test_accountsaddpayregister : Selecting month and year: Jan
+2025-01-26 10:06:29,854 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-26 10:29:33,597 : INFO : test_accountsaddpayregister : Selecting month and year: Jan
+2025-01-26 10:29:33,877 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-26 10:39:43,184 : INFO : test_accountsaddpayregister : Selecting month and year: January,2025
+2025-01-26 10:39:43,487 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-26 10:48:04,182 : INFO : test_accountsaddpayregister : Selecting month and year: Jan
+2025-01-26 10:48:04,489 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-26 11:18:43,642 : ERROR : test_accountsaddpayregister : Invalid month abbreviation: Jan
+2025-01-26 11:18:43,642 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-26 11:19:52,407 : ERROR : test_accountsaddpayregister : Invalid month abbreviation: Jan
+2025-01-26 11:19:52,407 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-26 11:22:34,920 : INFO : test_accountsaddpayregister : Selecting month and year: Jan
+2025-01-26 11:22:35,144 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-27 15:04:26,675 : INFO : test_accountsaddpayregister : Selecting month and year: Jan
+2025-01-27 15:04:26,907 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-27 15:34:21,580 : INFO : test_accountsaddpayregister : Selecting month and year: January, 2025
+2025-01-27 15:34:21,977 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-27 16:01:34,235 : INFO : test_accountsaddpayregister : Selecting month and year: 2025-01
+2025-01-27 16:01:34,559 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-27 16:03:39,361 : INFO : test_accountsaddpayregister : Selecting month and year: 2025-Jan
+2025-01-27 16:03:39,629 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-27 16:04:54,288 : INFO : test_accountsaddpayregister : Selecting month and year: 1-2025
+2025-01-27 16:04:54,677 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-27 16:06:40,951 : INFO : test_accountsaddpayregister : Selecting month and year: 1, 2025
+2025-01-27 16:06:41,388 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-27 16:14:07,284 : INFO : test_accountsaddpayregister : Selecting month and year: 01-01-2025
+2025-01-27 16:14:07,642 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-27 16:15:33,209 : INFO : test_accountsaddpayregister : Selecting month and year: 01-01-2025
+2025-01-27 16:15:33,459 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-28 10:13:43,605 : INFO : test_accountsaddpayregister : Selecting month and year: Jan
+2025-01-28 10:25:05,280 : INFO : test_accountsaddpayregister : Selecting month and year: Jan, 2025
+2025-01-28 10:25:05,532 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-28 10:26:36,424 : INFO : test_accountsaddpayregister : Selecting month and year: January, 2025
+2025-01-28 10:26:36,683 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-01-28 10:39:54,700 : INFO : test_accountsaddpayregister : Selecting month and year: January, 2025
+2025-01-28 10:42:01,212 : INFO : test_accountsaddpayregister : Selecting month and year: January, 2025
+2025-01-28 10:44:09,436 : INFO : test_accountsaddpayregister : Selecting month and year: January, 2025
+2025-01-28 10:44:09,702 : INFO : test_accountsaddpayregister : Uploading file from path: C:/Users/Dell/Downloads/payregister_jan.xls
+2025-02-06 17:09:43,971 : INFO : test_timesheet : Clicked on the timesheet button
+2025-02-06 17:09:47,500 : INFO : test_timesheet : Entered task name: Loginpage
+2025-02-06 17:09:47,622 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task
+2025-02-06 17:16:05,037 : INFO : test_timesheet : Clicked on the timesheet button
+2025-02-06 17:16:08,807 : INFO : test_timesheet : Entered task name: Loginpage
+2025-02-06 17:16:08,929 : INFO : test_timesheet : Clicked on 'Create Task' button to save the task

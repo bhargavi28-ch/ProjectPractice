@@ -1,0 +1,1 @@
+{"name": "test_addemployee[getData0]", "status": "passed", "parameters": [{"name": "getData", "value": "{'employeeID': 'PCS116', 'password': 'Admin@123'}"}], "start": 1741452026790, "stop": 1741452320162, "uuid": "6083d6f6-fd80-47ec-be90-af4276358688", "testCaseId": "9e17e91c72ad7119fbbd1224fb0dd433", "fullName": "test_createemployee.Testcreateemployee#test_addemployee"}
