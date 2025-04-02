@@ -48,6 +48,7 @@ class TestAccounts(BaseClass):
         viewpayslippage.getview_payslip_actions().click()
         viewpayslippage.getcheck_box_payslip_activation().click()
         viewpayslippage.getyes_button().click()
+        print("jdkhalk")
         #viewpayslippage.getno_button().click()
         # viewpayslippage.getsearch_employeeID().send_keys(getaccountData["search_employeeID"])
         # viewpayslippage.getsearch_employeeID_search_button().click()
